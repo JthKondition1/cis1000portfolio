@@ -1,3 +1,3 @@
 # cis1000portfolio 
 ## by Jason 
-This is a test readMe file. I am learning how to use github.
+This is a test readMe file. I am using this repository to further my studies.
